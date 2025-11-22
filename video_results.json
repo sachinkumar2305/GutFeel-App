@@ -1,0 +1,306 @@
+{
+  "": [
+    {
+      "script": {
+        "camera": {
+          "type": "cinematic",
+          "movement": "dynamic tracking shot"
+        },
+        "character": {
+          "persona": "GutFeel user",
+          "emotion": "hopeful",
+          "action": "engaging with gut health tips"
+        },
+        "lighting": "bright, natural",
+        "style": "pattern-interrupt, movement-heavy",
+        "dialogue_tone": "friendly, educational",
+        "constraints": {
+          "no_logos": true,
+          "no_text": true,
+          "no_music": true
+        },
+        "brand": "GutFeel",
+        "product_benefit": "gut health improvement",
+        "hook": "Of course. Here are 4 Veo3-style hook variations for GutFeel."
+      },
+      "error": "410 Client Error: Gone for url: https://api-inference.huggingface.co/models/lightx2v/Wan2.2-Lightning"
+    },
+    {
+      "script": {
+        "camera": {
+          "type": "cinematic",
+          "movement": "dynamic tracking shot"
+        },
+        "character": {
+          "persona": "GutFeel user",
+          "emotion": "hopeful",
+          "action": "engaging with gut health tips"
+        },
+        "lighting": "bright, natural",
+        "style": "pattern-interrupt, movement-heavy",
+        "dialogue_tone": "friendly, educational",
+        "constraints": {
+          "no_logos": true,
+          "no_text": true,
+          "no_music": true
+        },
+        "brand": "GutFeel",
+        "product_benefit": "gut health improvement",
+        "hook": "***"
+      },
+      "error": "410 Client Error: Gone for url: https://api-inference.huggingface.co/models/lightx2v/Wan2.2-Lightning"
+    },
+    {
+      "script": {
+        "camera": {
+          "type": "cinematic",
+          "movement": "dynamic tracking shot"
+        },
+        "character": {
+          "persona": "GutFeel user",
+          "emotion": "hopeful",
+          "action": "engaging with gut health tips"
+        },
+        "lighting": "bright, natural",
+        "style": "pattern-interrupt, movement-heavy",
+        "dialogue_tone": "friendly, educational",
+        "constraints": {
+          "no_logos": true,
+          "no_text": true,
+          "no_music": true
+        },
+        "brand": "GutFeel",
+        "product_benefit": "gut health improvement",
+        "hook": "1.  **The Room Transformation:** An extreme close-up on a person's tired, unfocused eyes. The camera pulls back impossibly fast to reveal them sitting in a dim, cluttered, messy room. They take one slow, deep breath, and on the exhale, the walls and clutter dissolve away, replaced instantly by a vibrant, sun-drenched, open meadow. Their expression is now clear and calm."
+      },
+      "error": "410 Client Error: Gone for url: https://api-inference.huggingface.co/models/lightx2v/Wan2.2-Lightning"
+    },
+    {
+      "script": {
+        "camera": {
+          "type": "cinematic",
+          "movement": "dynamic tracking shot"
+        },
+        "character": {
+          "persona": "GutFeel user",
+          "emotion": "hopeful",
+          "action": "engaging with gut health tips"
+        },
+        "lighting": "bright, natural",
+        "style": "pattern-interrupt, movement-heavy",
+        "dialogue_tone": "friendly, educational",
+        "constraints": {
+          "no_logos": true,
+          "no_text": true,
+          "no_music": true
+        },
+        "brand": "GutFeel",
+        "product_benefit": "gut health improvement",
+        "hook": "2.  **The Runner's Engine:** A runner is shown in super slow-motion, their stride heavy and labored, their face a mask of strain. The camera performs a rapid 360-degree orbital pan around them. As the pan completes, their form is suddenly explosive and effortless, their core glowing with a subtle, powerful energy, and their expression shifts to one of intense, focused power."
+      },
+      "error": "410 Client Error: Gone for url: https://api-inference.huggingface.co/models/lightx2v/Wan2.2-Lightning"
+    },
+    {
+      "script": {
+        "camera": {
+          "type": "cinematic",
+          "movement": "dynamic tracking shot"
+        },
+        "character": {
+          "persona": "GutFeel user",
+          "emotion": "hopeful",
+          "action": "engaging with gut health tips"
+        },
+        "lighting": "bright, natural",
+        "style": "pattern-interrupt, movement-heavy",
+        "dialogue_tone": "friendly, educational",
+        "constraints": {
+          "no_logos": true,
+          "no_text": true,
+          "no_music": true
+        },
+        "brand": "GutFeel",
+        "product_benefit": "gut health improvement",
+        "hook": "3.  **The Food Maze:** A dizzying top-down shot shows a person looking lost and overwhelmed at the entrance of a vast, shifting maze constructed from giant, unhealthy food items. The camera plummets downwards at breakneck speed, stopping inches from their stressed face. A soft, warm light begins to emanate from their abdomen, and their expression immediately changes to one of quiet confidence and clarity."
+      },
+      "error": "410 Client Error: Gone for url: https://api-inference.huggingface.co/models/lightx2v/Wan2.2-Lightning"
+    },
+    {
+      "script": {
+        "camera": {
+          "type": "cinematic",
+          "movement": "dynamic tracking shot"
+        },
+        "character": {
+          "persona": "GutFeel user",
+          "emotion": "hopeful",
+          "action": "engaging with gut health tips"
+        },
+        "lighting": "bright, natural",
+        "style": "pattern-interrupt, movement-heavy",
+        "dialogue_tone": "friendly, educational",
+        "constraints": {
+          "no_logos": true,
+          "no_text": true,
+          "no_music": true
+        },
+        "brand": "GutFeel",
+        "product_benefit": "gut health improvement",
+        "hook": "4.  **The Gravity Shift:** A person stands in a kitchen, looking bloated and uncomfortable. They sigh and gently press on their stomach. As they do, the gravity in the room inverts. All the loose objects—fruit in a bowl, papers on the counter, utensils—begin to float upwards. The person’s posture straightens, their discomfort visibly vanishes, and they look down at their now-calm stomach with a sense of relief and wonder as the objects gently settle back down."
+      },
+      "error": "410 Client Error: Gone for url: https://api-inference.huggingface.co/models/lightx2v/Wan2.2-Lightning"
+    }
+  ],
+  "sheet1": [
+    {
+      "script": {
+        "camera": {
+          "type": "cinematic",
+          "movement": "dynamic tracking shot"
+        },
+        "character": {
+          "persona": "GutFeel user",
+          "emotion": "hopeful",
+          "action": "engaging with gut health tips"
+        },
+        "lighting": "bright, natural",
+        "style": "pattern-interrupt, movement-heavy",
+        "dialogue_tone": "friendly, educational",
+        "constraints": {
+          "no_logos": true,
+          "no_text": true,
+          "no_music": true
+        },
+        "brand": "GutFeel",
+        "product_benefit": "gut health improvement",
+        "hook": "Of course. Here are 4 Veo3-style hook variations for GutFeel."
+      },
+      "error": "410 Client Error: Gone for url: https://api-inference.huggingface.co/models/lightx2v/Wan2.2-Lightning"
+    },
+    {
+      "script": {
+        "camera": {
+          "type": "cinematic",
+          "movement": "dynamic tracking shot"
+        },
+        "character": {
+          "persona": "GutFeel user",
+          "emotion": "hopeful",
+          "action": "engaging with gut health tips"
+        },
+        "lighting": "bright, natural",
+        "style": "pattern-interrupt, movement-heavy",
+        "dialogue_tone": "friendly, educational",
+        "constraints": {
+          "no_logos": true,
+          "no_text": true,
+          "no_music": true
+        },
+        "brand": "GutFeel",
+        "product_benefit": "gut health improvement",
+        "hook": "***"
+      },
+      "error": "410 Client Error: Gone for url: https://api-inference.huggingface.co/models/lightx2v/Wan2.2-Lightning"
+    },
+    {
+      "script": {
+        "camera": {
+          "type": "cinematic",
+          "movement": "dynamic tracking shot"
+        },
+        "character": {
+          "persona": "GutFeel user",
+          "emotion": "hopeful",
+          "action": "engaging with gut health tips"
+        },
+        "lighting": "bright, natural",
+        "style": "pattern-interrupt, movement-heavy",
+        "dialogue_tone": "friendly, educational",
+        "constraints": {
+          "no_logos": true,
+          "no_text": true,
+          "no_music": true
+        },
+        "brand": "GutFeel",
+        "product_benefit": "gut health improvement",
+        "hook": "1.  **The Office Balloon:** A hyper-lapse of a woman in a sleek office chair. As she types, her stylish blazer subtly and uncomfortably inflates like a balloon. The camera whip-pans in tight on her frustrated face, then in a split second, a wave of visible energy flows from her core, the blazer instantly deflates to a perfect fit, and she leans back with a deep, serene exhale."
+      },
+      "error": "410 Client Error: Gone for url: https://api-inference.huggingface.co/models/lightx2v/Wan2.2-Lightning"
+    },
+    {
+      "script": {
+        "camera": {
+          "type": "cinematic",
+          "movement": "dynamic tracking shot"
+        },
+        "character": {
+          "persona": "GutFeel user",
+          "emotion": "hopeful",
+          "action": "engaging with gut health tips"
+        },
+        "lighting": "bright, natural",
+        "style": "pattern-interrupt, movement-heavy",
+        "dialogue_tone": "friendly, educational",
+        "constraints": {
+          "no_logos": true,
+          "no_text": true,
+          "no_music": true
+        },
+        "brand": "GutFeel",
+        "product_benefit": "gut health improvement",
+        "hook": "2.  **The Internal Knot:** An extreme close-up on a fit man's abdomen, mid-workout. The camera pulls back as his skin gains a glass-like transparency, revealing a chaotic, glowing, tangled knot of red wires in his gut. In a fluid, reverse-motion shot, the knot instantly and smoothly unravels into a perfectly ordered, symmetrical pattern, now pulsating with a calm, blue light."
+      },
+      "error": "410 Client Error: Gone for url: https://api-inference.huggingface.co/models/lightx2v/Wan2.2-Lightning"
+    },
+    {
+      "script": {
+        "camera": {
+          "type": "cinematic",
+          "movement": "dynamic tracking shot"
+        },
+        "character": {
+          "persona": "GutFeel user",
+          "emotion": "hopeful",
+          "action": "engaging with gut health tips"
+        },
+        "lighting": "bright, natural",
+        "style": "pattern-interrupt, movement-heavy",
+        "dialogue_tone": "friendly, educational",
+        "constraints": {
+          "no_logos": true,
+          "no_text": true,
+          "no_music": true
+        },
+        "brand": "GutFeel",
+        "product_benefit": "gut health improvement",
+        "hook": "3.  **The Shattering Plate:** Dynamic top-down shot of a pristine ceramic plate. In rapid succession, a slice of avocado, a cherry tomato, and a piece of bread slam onto it, each landing causing dramatic spiderweb cracks to appear. The plate shatters into a million pieces. Then, time instantly reverses—the shards fly backwards, reassembling the plate flawlessly as the food gently settles into a beautiful, harmonious arrangement."
+      },
+      "error": "410 Client Error: Gone for url: https://api-inference.huggingface.co/models/lightx2v/Wan2.2-Lightning"
+    },
+    {
+      "script": {
+        "camera": {
+          "type": "cinematic",
+          "movement": "dynamic tracking shot"
+        },
+        "character": {
+          "persona": "GutFeel user",
+          "emotion": "hopeful",
+          "action": "engaging with gut health tips"
+        },
+        "lighting": "bright, natural",
+        "style": "pattern-interrupt, movement-heavy",
+        "dialogue_tone": "friendly, educational",
+        "constraints": {
+          "no_logos": true,
+          "no_text": true,
+          "no_music": true
+        },
+        "brand": "GutFeel",
+        "product_benefit": "gut health improvement",
+        "hook": "4.  **The Fog Lift:** A person moves in dream-like slow motion through a chic apartment filled with a thick, grey mist swirling around their feet. They look exhausted. They gently tap their stomach, and a shockwave of vibrant, golden light erupts from their core, vaporizing the mist instantly. The world snaps into hyper-realistic focus and color as they take a sharp, energized breath."
+      },
+      "error": "410 Client Error: Gone for url: https://api-inference.huggingface.co/models/lightx2v/Wan2.2-Lightning"
+    }
+  ]
+}
