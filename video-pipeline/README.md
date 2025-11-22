@@ -48,6 +48,12 @@ python veo3_api_client.py
 ```
 - Outputs videos and results in `api_output/` and `video_results.json`
 
+## Note on Mochi Weights and Video Output
+
+The Mochi model weights required for local video generation are very large and may be difficult to download or run on some systems. If you do not have the weights installed, the pipeline will not generate video outputs in the `api_output/` or `video_results.json` files.
+
+If you wish to generate videos, please follow the instructions in the `mochi` folder to download and install the weights. Otherwise, you can still use the pipeline to generate hooks and JSON scripts for video content.
+
 ## Next Steps
 - Convert approved hooks to Veo3 JSON format
 - Integrate Veo3 API for video generation (optional)
